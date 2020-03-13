@@ -271,6 +271,7 @@ a:focus {
     .h1{
         size: 46px;
     }
+}
 
 @media (min-width: 992px){
     .h1{
